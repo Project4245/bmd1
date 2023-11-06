@@ -32,7 +32,7 @@ public class UserController {
 
 	@GetMapping("/test")
 	public String test() {
-		return "API is working...";
+		return "API is working...!!!";
 	}
 	
 	// POST-create user
